@@ -1,0 +1,9 @@
+streamlit
+google-genai
+dotenv
+
+command : pip install
+
+# venv/anaconda(Python 3.14) recommended for isolated environment
+
+# (.env) file required for store api key as GEMINI_KEY="<your key here>"
